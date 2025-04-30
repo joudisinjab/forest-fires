@@ -1,18 +1,16 @@
-# Forest Fires Data Analysis - Assignment
+# Forest Fires Data Analysis 
 
-This repository contains the code and analysis for the Forest Fires dataset from the UCI Machine Learning Repository. The dataset consists of meteorological and fire data recorded in Portugal. This assignment was completed as part of the Data Analytics, Big Data, and Predictive Analytics Certificate.
+This repository contains the code and analysis for the Forest Fires dataset from the UCI Machine Learning Repository. The dataset consists of meteorological and fire data recorded in Portugal. 
 
 ---
 
-## Assignment Overview
+## Project Overview
 
-In this assignment, I performed various data manipulation, exploration, and visualization tasks using Python and libraries such as Pandas, NumPy, Matplotlib, and Seaborn to analyze the Forest Fires dataset. The main objectives of the tasks are to clean, filter, aggregate, and visualize the dataset to uncover insights about the forest fires.
+In this project, various data manipulation, exploration, and visualization tasks were performed using Python and libraries such as Pandas, NumPy, Matplotlib, and Seaborn to analyze the Forest Fires dataset. The main objectives of the tasks are to clean, filter, aggregate, and visualize the dataset to uncover insights about the forest fires.
 
 ---
 
 ## Tasks
-
-The following tasks were completed in this assignment, with code answering each of the questions provided:
 
 1. Read and inspect the dataset: Import the dataset from a URL and display the first five records to understand its structure.
 2. Data Exploration: Count the total number of observations and filter those with both significant fire (burned area > 0) and rain.
@@ -29,8 +27,8 @@ The following tasks were completed in this assignment, with code answering each 
 
 ## Files
 
-- forestfires_analysis.ipynb: The notebook file containg the solutions for the tasks. It includes all the code to load, process, and analyze the data.
-- forestfires.csv: The dataset used for analysis
+- `forestfires_analysis.ipynb`: The notebook file containg the solutions for the tasks. It includes all the code to load, process, and analyze the data.
+- `forestfires.csv`: The dataset used for analysis
 
 ---
 
